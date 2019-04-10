@@ -10,3 +10,7 @@ Each lesson will teach one meaningful skill or concept.
 ## Lessons
 * [1 - Use a github repository](Lesson-01.md)
 
+
+## Development Plans
+* [Lessons To Create](Lessons.md)
+
