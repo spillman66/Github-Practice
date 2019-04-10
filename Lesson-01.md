@@ -19,4 +19,4 @@ Later we will expand this to allow multiple users to work together.
 
 * Go to [UNC-Github-Practice](https://github.com/Mark-Seaman/UNC-Github-Practice)
 * Browse around through the directory of files and versions.
-
+* Visit the [HTML file](https://github.com/Mark-Seaman/UNC-Github-Practice/code/01/index.html)
