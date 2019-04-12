@@ -48,5 +48,5 @@ their class without having to do any work to teach the material.
 
 Students that have learned the key skills in one class will already know what the trick
 is to each lesson and will be able to complete it rapidly.  Version control is a foundational
-skills that every student should know. This project make it easy to teach.
+skill that every student should know. This project make it easy to teach.
 
