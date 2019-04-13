@@ -1,3 +1,0 @@
-# UNC Github Lessons
-
-* []
