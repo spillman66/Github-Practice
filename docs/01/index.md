@@ -9,9 +9,6 @@ Congratulations! You found the hidden file.
 In this lesson you learned to visit a Github Repo which contains all the versions of every
 file that has every been a part of this project.
 
-This page can veiwed as a nicely styled web page.
-<a href="https://Mark-Seaman.github.io/UNC-Github-Practice/01/index.md">View as Web Page</a>.
-
         
 ### Steps to Complete
 * Go to [UNC-Github-Practice](https://github.com/Mark-Seaman/UNC-Github-Practice)
