@@ -2,7 +2,7 @@
 
 ## Clone a Repo
 
-This archive is owned by **REPLACE WITH YOUR NAME**
+This archive is owned by **MADI SPILLMAN**
 
 [My Repo](https://github.com/YOUR-NAME/UNC-Github-Practice)
 
